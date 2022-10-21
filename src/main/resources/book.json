@@ -1,0 +1,26 @@
+[
+  {
+    "numberOfPages" : 500,
+    "title" : "Sagan om ringen",
+    "author": "tolkien",
+    "date": "1989"
+  },
+  {
+    "numberOfPages" : 521,
+    "title" : "Bibeln",
+    "author": "Jesus",
+    "date": "0"
+  },
+  {
+    "numberOfPages" : 345,
+    "title" : "boken",
+    "author": "författare",
+    "date": "2000"
+  },
+  {
+    "numberOfPages" : 520,
+    "title" : "boken2",
+    "author": "författare",
+    "date": "1963"
+  }
+]
